@@ -48,6 +48,10 @@ Key fields include:
 
 The transaction data is used for analytical purposes only.
 
+### Data Disclaimer
+
+The repository includes a small sample of the transaction dataset for demonstration purposes. The full dataset used during analysis is not included in the repository.
+
 ## Analysis Areas
 
 ### 1. Customer Behavior Analysis
