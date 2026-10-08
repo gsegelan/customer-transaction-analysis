@@ -2,7 +2,7 @@
 
 A SQL-based customer analytics project exploring transaction behavior, customer segmentation, retention, churn, spending patterns, merchant activity, payment channels, and customer value.
 
-The project was developed using **SQLite** and **Oracle SQL** to demonstrate the ability to apply analytical SQL techniques across different database environments.
+The project was developed using **Oracle SQL** and **SQLite** to demonstrate the ability to apply analytical SQL techniques across different database environments.
 
 ## Project Overview
 
